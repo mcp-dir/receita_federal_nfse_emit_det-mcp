@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/receita_federal_nfse_emit_det-mcp",
+  "title": "Receita Federal NFS-e: Notas Emitida (Detalhes)",
+  "description": "Receita Federal NFS-e: Notas Emitida (Detalhes), official-source lookup. Platform-hosted, pay per qu",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/receita_federal_nfse_emit_det-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_receita_federal_nfse_emit_det"
+    }
+  ]
+}
